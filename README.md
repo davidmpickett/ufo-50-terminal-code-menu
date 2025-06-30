@@ -10,5 +10,5 @@ Note: Installing untrusted mods is risky. Install at your own risk.
 3. Unzip the mod and place the `Terminal Codes Menu` folder inside the `my mods` folder of GMLoader
 4. Run `UFO 50 Mod Installer.exe`
 5. Check the mod(s) you wish to install.
-6. **IMPORTANT** - You must uncheck the `UFO 50 Modding Framework` since this mod currently conflicts with the framework.
+6. **IMPORTANT**  You must uncheck `UFO 50 Modding Framework` since it currently conflicts with this mod.
 7. Click `Install Mods`
