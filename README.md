@@ -2,6 +2,8 @@
 - Adds a tab to the Library Details menu for each Game that ists all all Terminal Codes. You can select a code and launch the game with that code applied.
 - Compatible with UFO 50 v1.7.6
 
+![Terminal Code menu](/images/menu.jpg)
+
 ## How to install the mod
 Note: Installing untrusted mods is risky. Install at your own risk. 
 
@@ -12,3 +14,5 @@ Note: Installing untrusted mods is risky. Install at your own risk.
 5. Check the mod(s) you wish to install.
 6. **IMPORTANT**  You must uncheck `UFO 50 Modding Framework` since it currently conflicts with this mod.
 7. Click `Install Mods`
+
+![UFO 50 Mod Install interface](/images/install.png)
