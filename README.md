@@ -1,5 +1,5 @@
 # UFO 50 Mod - Terminal Codes Menu
-- Adds a tab to the Library Details menu for each Game that ists all all Terminal Codes. You can select a code and launch the game with that code applied.
+- Adds a tab to the Library Details menu for each Game that lists all Terminal Codes. You can select a code and launch the game with that code applied.
 - Compatible with UFO 50 v1.7.6
 
 ![Terminal Code menu](/images/menu.jpg)
